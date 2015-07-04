@@ -1,0 +1,2156 @@
+Submitter Title
+
+Submitter Response
+
+
+Category
+
+
+Information Security Analyst
+
+Anti Malware
+
+
+Anti
+-
+Virus
+
+
+Vice President and Chief
+Information Security Officer
+
+APT chasers
+
+
+Anti
+-
+Virus
+
+
+IT Architect
+
+
+APTs
+
+
+Anti
+-
+Virus
+
+
+Manager in Security Organization
+
+Dynamic detection of malware
+
+
+Anti
+-
+Virus
+
+
+CISO, CSO or Head
+of Security
+Organization
+
+
+malware
+
+
+Anti
+-
+Virus
+
+
+Chief Information Security Officer
+
+malware detection
+
+
+Anti
+-
+Virus
+
+
+Director IT Governance Risk &
+Compliance
+
+
+Malware protection on mobile devices
+
+Anti
+-
+Virus
+
+
+Chief Information Security Officer
+
+Application
+development
+
+
+Application Security
+
+
+Director of Security
+
+Application Security
+
+
+Application Security
+
+
+Information Security Solution
+Subject Matter Expert
+
+Application Security
+
+
+Application Security
+
+
+Senior Manager Security
+Intelligence & Operations
+
+Application
+Security
+
+
+Application Security
+
+
+Interim Chief Executive Officer
+
+application security remediation
+
+
+Application Security
+
+
+Chief Information Security Officer
+
+browser / web browsing security
+
+
+Application Security
+
+
+Director
+
+
+Database/Application Security
+
+
+Application Security
+
+
+Individual Contributor
+
+Developer tools
+
+
+Application Security
+
+
+Sr. Mgr Information Security
+Management
+
+
+Product Security
+
+
+Application Security
+
+
+Principal Security Consultant
+
+Remediation / Application Security
+
+
+Application Security
+
+
+Innovation in security
+
+SecDevOps
+
+
+Application Security
+
+
+Chief Information Security Officer
+
+Security integration within SDLC
+
+
+Application Security
+
+
+
+
+Software
+\
+Code analysis
+
+
+Application Security
+
+
+VP - IT Risk Management
+
+awareness and traininig
+
+
+Awareness and
+Education
+
+
+Director
+
+
+Awareness, Behvaiours and Cultural Change
+
+
+Awareness and
+Education
+
+
+Chief Information Security Officer
+
+Just in time security training and awareness
+
+
+Awareness and
+Education
+
+
+VP Security Strategy and
+Architecture
+
+
+Personnel
+
+
+Awareness and
+Ed
+ucation
+
+
+Chief Information Security Officer
+
+security awareness / human security
+
+
+Awareness and
+Education
+
+
+Enterprise Information Security
+Architect
+
+
+Security awareness and role
+-
+specific training
+
+
+Awareness and
+Education
+
+
+Chief Information Security Officer
+(CISO)
+
+
+user behavior modification / at
+-
+time
+-
+of
+-
+incident training
+
+
+Awareness and
+Education
+
+
+Security Specialist resp.
+Information Security department
+
+user education
+
+
+Awareness and
+Education
+
+
+Senior Manager Cyber
+Intelligence & Response Team
+
+User education
+
+
+Awareness and
+Education
+
+
+
+
+
+www.somaini.net
+
+
+6/2015
+
+
+Individual Contributor
+
+bring your own device
+
+
+BYOD
+
+
+Chief Information Assurance
+Officer
+
+
+BYOD
+-
+
+non
+-
+corporate managed devices in the
+workplace and at home; perisitent corporate data on
+the BYOD endpoint
+
+
+BYOD
+
+
+Chief Security Officer
+
+Cloud
+
+
+Cloud Security
+
+
+Assistant VP Information Security
+
+Cloud
+
+
+Cloud Security
+
+
+Senior Director Technology
+Information Security
+
+cloud
+
+
+Cloud Security
+
+
+Network and Security Engineer
+
+Cloud communication/storage
+
+
+Cloud Security
+
+
+Director IT Governance Risk &
+Compliance
+
+
+Cloud data loss protection
+
+
+Cloud Security
+
+
+Senior Manager Information
+Security
+
+
+cloud security
+
+
+Cloud Security
+
+
+Information Security
+
+Cloud security
+
+
+Cloud Security
+
+
+Sr. Manager of Information
+Security
+
+
+Cloud Security
+
+
+Cloud Security
+
+
+Security
+Engineer
+
+cloud security
+
+
+Cloud Security
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Cloud security
+
+
+Cloud Security
+
+
+Vice President Security &
+Compliance
+
+
+Cloud Security
+
+
+Cloud Security
+
+
+Security Specialist resp.
+Information Security department
+
+cloud
+services
+
+
+Cloud Security
+
+
+Information Security Analyst
+
+Shadow Cloud Mitigation
+
+
+Cloud Security
+
+
+Chief Security Officer
+
+Compliance
+
+
+Compliance
+
+
+Director Security Engineering
+
+compliance
+
+
+Compliance
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Compliance
+
+
+Compliance
+
+Interim Chief Executive Officer
+
+warrantees for security products and services
+
+Cyber Insurance
+
+
+Chief Cybersecurity Technologist
+
+
+Better mechanisms for data classification and
+enforcement of those classifications
+
+Data Protection
+
+
+Senior Security
+Architect
+
+data
+
+
+Data Protection
+
+
+Manager Enterprise Information
+Security
+
+
+data protection
+
+
+Data Protection
+
+
+Senior Manager Security
+Intelligence & Operations
+
+Data Security
+
+
+Data Protection
+
+
+Chief Information Security Officer
+
+
+data security controls that are
+tightly wrapped with the
+data
+
+
+Data Protection
+
+
+SVP Information Security
+Architecture
+
+
+data segregation
+
+
+Data Protection
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Data
+-
+centric access control and monitoring
+
+Data Protection
+
+Chief Information Security
+Officer
+
+Data+Identity Context Based Protection
+
+Data Protection
+
+Vice President Security
+
+Encryption in SaaS
+
+
+Data Protection
+
+Director Information Security
+
+managing data outside the infrastructure
+
+Data Protection
+
+CISO, CSO or Head of Security
+Organization
+
+
+DDOS
+
+
+DDOS Mitigation
+
+
+IT Architect
+
+
+Anti DDoS
+
+
+DDOS Mitigation
+
+
+Manager in Security Organization
+
+Data Exfiltration Monitoring/Alerting
+
+DLP
+
+Senior Director Information
+Security Services
+
+data loss prevention
+
+
+DLP
+
+
+Director Information Security
+
+Better
+Endpoint Security
+
+
+EndPoint Security
+
+Vice President and Chief
+End point protection including BYOD
+
+EndPoint Security
+
+
+
+
+
+www.somaini.net
+
+
+6/2015
+
+
+Information Security Officer
+
+
+Senior Director Information
+Security Services
+
+
+endpoint controls without added endpoint agent
+overhead
+
+
+EndPoin
+t Security
+
+
+Chief Information Security Officer
+
+endpoint security
+
+
+EndPoint Security
+
+
+Chief Information Security Officer
+
+endpoint security
+
+
+EndPoint Security
+
+
+Chief Information Security Officer
+
+endpoint security
+
+
+EndPoint Security
+
+
+Senior Vice President
+-
+Global
+
+Information Security
+
+Secure the endpoint
+
+
+EndPoint Security
+
+
+CISO
+
+
+Self governing end points
+
+
+EndPoint Security
+
+
+
+
+Access Control
+
+
+IDaM
+
+
+RSSI
+
+
+Access rights live cycle management
+
+IDaM
+
+
+Manager
+-
+
+IT Security Programs
+
+authentication
+
+
+IDaM
+
+
+Security Vendor
+
+Authentication
+
+
+IDaM
+
+
+Manager
+-
+
+IT Security Programs
+
+authorization
+
+
+IDaM
+
+
+Individual Contributor
+
+Biometrics
+
+
+IDaM
+
+
+Security Vendor
+
+Identity
+
+
+IDaM
+
+
+VP Security Strategy and
+Architecture
+
+
+Identity
+
+
+IDaM
+
+
+Information Security Analyst
+
+Identity and Access Management
+
+
+IDaM
+
+
+Innovation in security
+
+IdM
+
+
+IDaM
+
+
+Manager in Security Organization
+
+Password Management
+
+
+IDaM
+
+
+Senior Director Technology
+Information Security
+ 
+password
+-
+less authentication including biometrics
+ 
+IDaM
+
+
+Network and Security Engineer
+
+
+Protection of
+identities and information from
+governments and crackers
+
+
+IDaM
+
+
+VP Information Security CISO
+ 
+Risk
+-
+Based Access Control
+
+
+IDaM
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+SQRL Secure Quick Reliable Login
+ 
+IDaM
+
+
+Manager Information Security
+ 
+user access reviews
+
+
+IDaM
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+autonomous vehicles security
+
+
+IoT
+
+
+Sr. Director Security Strategy /
+Evangelist
+
+
+IOT /IOE Orchestration
+
+
+IoT
+
+
+Manager Information Security
+ 
+IoT Security
+
+
+IoT
+
+
+Chief Information Assurance
+Officer
+
+
+IOT security
+
+
+IoT
+
+
+Sr. Manager of Information
+Security
+
+
+Analytics
+
+
+Logging & Analytics
+
+
+Principal Security Consultant
+ 
+Analytics
+
+
+Logging & Analytics
+
+Director of Security
+ 
+Behavior analysis to detect active threats
+ 
+Logging & Analytics
+
+Chief Information Security Officer
+ 
+Behavioral Analytics
+
+
+Logging & Analytics
+
+
+Chief Information Security Officer
+
+
+behavioral analytics for authentication and fraud
+management
+
+
+Logging & Analytics
+
+
+RSSI
+
+
+Behavioural detection
+
+
+Logging & Analytics
+
+
+Chief Information Security Officer
+(CISO)
+
+
+big
+data / pattern recognition / machine learning
+ 
+Logging & Analytics
+
+
+Senior Director Information
+Security and Chief Information
+Security Officer
+ 
+Big Data Security Analytics
+
+
+Logging & Analytics
+
+
+Sr. Director Security Strategy /
+Evangelist
+
+
+Big Data Security VISUAL Analytics
+ 
+Logging & Analytics
+
+
+SVP Information Security
+Architecture
+
+
+big data threat modeling
+
+
+Logging & Analytics
+
+
+
+
+
+www.somaini.net
+
+
+6/2015
+
+
+Security Vendor
+ 
+Breach Detection
+
+
+Logging & Analytics
+
+
+MANAGER INFORMATION
+SECURITY PROTECTION UNIT
+ 
+comprise investigation
+
+
+Logging &
+Analytics
+
+
+Vice President of Information
+Technology Security
+ 
+Compromise Detection
+
+
+Logging & Analytics
+
+
+Chief Information Security Officer
+ 
+continuous monitoring
+
+
+Logging & Analytics
+
+
+Manager Information Security &
+Desktop Support
+ 
+Continuous monitoring
+
+
+Logging & Analytics
+
+
+Manager Information Security &
+Desktop Support
+ 
+Correlation
+
+
+Logging & Analytics
+
+
+Chief Security Officer
+ 
+Data Analytics
+
+
+Logging & Analytics
+
+
+Sr. Manager - Information Security Architecture & Engineering
+
+Data Analytics
+
+
+Logging &
+Analytics
+
+
+Global Security Architect
+ 
+Event corrolation and analysis
+
+
+Logging & Analytics
+
+
+Sr. Manager Information Security
+and Compliance
+ 
+Incident Management
+
+
+Logging & Analytics
+
+
+CISO
+
+
+incident management
+
+
+Logging & Analytics
+
+
+Manager Enterprise Information
+Security
+
+
+incident management
+
+
+Logging & Analytics
+
+
+Senior Manager Cyber
+Intelligence & Response Team
+ 
+Incident Response
+
+
+Logging & Analytics
+
+Manager Information Security
+ 
+indicator of compromise automation
+ 
+Logging & Analytics
+
+Chief Information Security
+Officer
+(CISO)
+
+
+information visualization
+
+
+Logging & Analytics
+
+
+SVP
+-
+CISO
+
+
+Log automation
+
+
+Logging & Analytics
+
+
+Chief Information Security Officer
+ 
+network forensics
+
+
+Logging & Analytics
+
+
+IT
+-
+Security Specialist
+ 
+Network monitoring
+
+
+Logging & Analytics
+
+
+CISO
+
+
+Predictive analytics
+
+
+Logging & Analytics
+
+
+VP Information Security CISO
+ 
+Predictive Analytics
+
+
+Logging & Analytics
+
+
+Chief Security Officer
+ 
+Reporting
+
+
+Logging & Analytics
+
+
+Manager Information Security &
+Desktop Support
+ 
+Reputational /Bhavioral monitoring
+ 
+Logging & Analytics
+
+
+Chief Security Officer
+ 
+Security Analytics
+
+
+Logging & Analytics
+
+
+Senior Manager Cyber
+Intelligence & Response Team
+ 
+Security Analytics (SIEM 2.0?)
+
+
+Logging & Analytics
+
+
+Senior Director Technology
+Information Security
+ 
+security big data analytics
+
+
+Logging & Analytics
+
+Director Information Security
+ 
+Security Incident Response Management
+ 
+Logging & Analytics
+
+Senior Director Information
+Security and Chief Information
+Security Officer
+ 
+Security Intelligence
+
+
+Logging & Analytics
+
+Chief Security Officer
+ 
+Security monitoring & automated response
+ 
+Logging & Analytics
+
+VP & Director Strategic
+Information Risk Management
+
+
+Self
+-
+protecting and publishing profile of normal
+behavior applications
+
+
+Logging & Analytics
+
+
+Assistant VP Information Security
+ 
+SIEM
+
+
+Logging & Analytics
+
+
+Senior Director Information
+Security and Chief Information
+Security Officer
+ 
+Threat Detection
+
+
+Logging & Analytics
+
+
+CISO
+
+
+Threat detection and alerting
+
+
+Logging & Analytics
+
+
+Director Security Engineering
+ 
+total visibility / event correlation
+
+
+Logging & Analytics
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+User Behavioral Analytics (UBA)
+
+
+Logging & Analytics
+
+
+
+
+
+www.somaini.net
+
+
+6/2015
+
+
+Chief Security Officer
+ 
+Visibility to environment
+
+
+Logging & Analytics
+
+
+CISO, CSO or Head of Security
+O
+rganization
+
+
+mobile
+
+
+Mobile
+
+
+Senior Security Architect
+ 
+mobile
+
+
+Mobile
+
+
+Security Specialist resp.
+Information Security department
+ 
+mobile
+
+
+Mobile
+
+
+Chief Security Officer
+ 
+Mobile
+
+
+Mobile
+
+
+Individual Contributor
+ 
+mobile
+
+
+Mobile
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+mobile app fortification
+
+
+Mobile
+
+
+Chief Information Security Officer
+ 
+Mobile Application Security
+
+
+Mobile
+
+
+Manager Information Security
+ 
+Mobile Security
+
+
+Mobile
+
+
+Information Security
+ 
+Mobile security
+
+
+Mobile
+
+
+Information Technology Officer
+ 
+Firewalls
+
+
+Network Controls
+
+
+Senior Security Architect
+ 
+network
+
+
+Network Controls
+
+
+Chief Information Security Officer
+
+
+threat detection for control systems i.e. network
+security
+
+
+Network Controls
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Phishing
+
+
+Phishing
+
+Chief
+Information Security Officer
+ 
+protection against in
+-
+bound phishing email
+ 
+Phishing
+
+Chief Cybersecurity Technologist
+ 
+Better ways to prioritize areas to focus on
+ 
+Risk Management
+
+Assistant VP Information Security
+ 
+eGRC
+
+
+Risk Management
+
+
+Sr. Manager 
+Information Security
+and Compliance
+ 
+GRC for cloud SaaS, IaaS and Paas
+ 
+Risk Management
+
+
+Chief Security Officer
+ 
+GRC management
+
+
+Risk Management
+
+
+Individual Contributor
+ 
+it governance efficiency
+
+
+Risk Management
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Metri
+cs and Risk Management
+
+
+Risk Management
+
+
+Security Vendor
+ 
+Risk Identification
+
+
+Risk Management
+
+
+Senior Director Information
+Security Services
+ 
+risk management
+
+
+Risk Management
+
+
+Chief Security Officer
+ 
+Risk Management (relevance)
+
+
+Risk Management
+
+
+Sr. Mgr
+Information Security
+Management
+
+
+Risk Management and Treatment, an approach of
+capturing responses in an automated fashion
+ 
+Risk Management
+
+
+Interim Chief Executive Officer
+ 
+risk scoring
+
+
+Risk Management
+
+
+MANAGER INFORMATION
+SECURITY PROTECTION UNIT
+ 
+threat
+intelligence
+
+
+Threat Intelligence &
+Sharing
+
+
+Director Information Security
+ 
+Threat Intelligence Automated Ingestion
+
+
+Threat Intelligence &
+Sharing
+
+
+Chief Security Officer
+ 
+Threat Intelligence feed management
+
+
+Threat Intelligence &
+Sharing
+
+
+Vice President Security
+ 
+Threat Intelligence Sharing
+
+
+Threat Intelligence &
+Sharing
+
+
+Vice President of Information
+Technology Security
+ 
+3rd Party Risk
+
+
+Vendor
+Management
+
+
+Director Information Security
+ 
+assessing vendor security
+
+
+Vendor
+Management
+
+
+Manager Information Security
+ 
+vendor management
+
+
+Vendor
+Management
+
+
+VP
+-
+IT Risk Management
+
+
+Vulnerability detection, analysis, prioritization and
+elimination
+
+
+Vulnerability
+Management
+
+
+Manager in Security Organization
+ 
+Vulnerability Management
+
+
+Vulnerability
+Management
+
+
+
+
+  
+www.somaini.net
+
+
+6/2015
+
+
+CISO
+
+
+vulnerability management
+
+
+Vulnerability
+Management
+
+
+RSSI
+
+
+"smart" security dashboards
+
+
+
+
+Director Information Security
+ 
+always on penetration testing
+
+
+
+
+Security Engineer
+ 
+automation
+
+
+
+
+Vice President Security
+
+
+Better API connectivity / Better Data Sharing / Better
+Analysis
+between security tools
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+breach containment
+
+
+
+
+Network and Security Engineer
+
+
+Coding of secure applications and communications to
+Mobile devices
+
+
+
+Senior Vice President
+-
+Global
+Information Security
+ 
+Consolidation of security tools
+
+
+
+
+Senior Manager Information
+Security
+
+
+continous monitoring
+
+
+
+
+Chief Information Assurance
+Officer
+
+
+Continuous assuance of cloud service provider secure
+operations and control environment
+
+
+
+Innovation in security
+ 
+Continuous Deployment security
+
+
+
+
+Manager Data Protection
+Governance & Compliance
+ 
+Corporate Security
+
+
+
+
+Enterprise Information Security
+Architect
+
+
+Correlating organization / human data across multiple
+sources to identify risk anomalies
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Critical Infrastructure
+
+
+
+
+Individual Contributor
+ 
+Cross channel intel
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Cryptoware
+
+
+
+
+Individual Contributor
+ 
+Customer deliverable document storage
+
+
+
+
+MANAGER INFORMATION
+SECURITY PROTECTION UNIT
+ 
+cybercrime
+infrastructure
+
+
+
+
+SVP
+-
+CISO
+
+
+Dashboard consolidation
+
+
+
+
+CISO
+
+
+Data containerization
+
+
+
+
+Manager Information Security
+ 
+Datacentric/Data Gravity Security
+
+
+
+
+Chief Cybersecurity Technologist
+
+
+Detection of advanced threats (better network and host
+anomaly detection)
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Drone Security
+
+
+
+
+Chief Information Security Officer
+
+
+encryption of objects applied within and outside the
+enterprise
+
+
+
+
+Security Vendor
+ 
+Enforcement
+
+
+
+
+Manager IT Assurance
+
+
+enterprise solution for rolling back to
+previous state on
+laptops returning from business trips (like from china)
+
+
+
+Manager Enterprise Information
+Security
+
+
+file transfer
+
+
+
+
+
+
+Security Engineer
+ 
+forensics
+
+
+
+
+Director of Security
+ 
+Homomorphic Encryption
+
+
+
+
+IT
+-
+Security Specialist
+ 
+Honeypots
+
+
+
+
+IT Architect
+
+
+HSMs
+
+
+
+
+Chief Information Security Officer
+
+
+Human-Machine Learning Applied to People Centric
+Security
+
+
+
+Individual Contributor
+ 
+implementing cryptography
+
+
+
+
+VP-IT Risk Management
+ 
+Improved dashboards and "top down reporting"
+
+
+
+
+
+
+
+www.somaini.net
+
+
+6/2015
+
+
+Information
+Security
+ 
+Infrastructure protection
+
+
+
+
+Director Information Security Risk
+ 
+Insider Risk
+
+
+
+
+VP Information Security CISO
+ 
+Insider Threat
+
+
+
+
+Vice President of Information
+Technology Security
+ 
+Insider Threat
+
+
+
+
+Vice President and Chief
+Information Security Officer
+ 
+Insider threat
+
+
+
+
+Director IT Governance Risk &
+Compliance
+
+
+Insider threat / Anomaly detection
+
+
+
+
+Manager Global Information
+Security
+
+
+Integrating threat intelligence with our security
+platforms to contextualize attacks and automate
+attribution both interna
+lly and externally
+
+
+
+
+Manager Global Information
+Security
+
+
+Integration of Risk Registrar with Asset Management,
+Vulnerability Management, and Threat platforms for
+near-real-time analytics across our attack surface
+
+
+
+Sr. Manager
+-
+Information
+Security
+Architecture &
+Engineering
+
+
+Inventory and Configuration Management
+
+
+
+
+Principal Security Consultant
+ 
+Keys and Encryption
+
+
+
+
+VP Security Strategy and
+Architecture
+
+
+Location
+
+
+
+
+Director Information Security
+ 
+managing internal accesd
+
+
+
+
+Sr. Mgr Information Security
+Management
+
+
+Maximum automation in the way Corp IT is executed
+today
+
+
+
+Enterprise Information Security
+Architect
+
+
+Minimizing human hours spent on identifying the critical
+security stories (reactive)
+
+
+
+Security Vendor
+ 
+Off
+-
+Network
+
+
+
+
+Senior Vice President
+-
+Global Information Security
+ 
+Orchestration & Workflow
+
+
+
+
+Individual Contributor
+ 
+Phone channel
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Platform and application independent certification for
+digitial signatures and encryption
+
+
+
+Manager Data Protection
+Governance & Compliance
+ 
+Platform as a Service
+
+
+
+
+Manager in Security Organization
+ 
+Practical endpoint hardening
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Proactive Security
+
+
+
+
+Vice President Security &
+Compliance
+
+
+Process Driven Security
+
+
+
+
+Sr. Director 
+Security Strategy /
+Evangelist
+
+
+Public Cloud and Container Base Virtualization
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+RASP
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+Remediation Automation
+
+
+
+
+IT
+-
+Security Specialist
+ 
+Remote memory forensic
+
+
+
+
+Global
+Security Architect
+ 
+Rogue/Shadow IT detection
+
+
+
+
+Manager in Security Organization
+ 
+Seamless case management
+
+
+
+
+CISO, CSO or Head of Security
+Organization
+
+
+secops automation
+
+
+
+
+Director
+
+
+Security Architecture embedded in Enterprise
+Architecture
+
+
+
+
+Senior Manager 
+Information
+Security
+
+
+security as a service
+
+
+
+
+
+
+
