@@ -1,5 +1,14 @@
 import re 
 
+def export_csv(rows, filename):
+    """Export RedList Data to CSV format."""
+    p1 = 'position'
+    r1 = 'response'
+    c1 = 'category'
+    with open(filename, 'w') as f:
+        for r in rows:
+            f.write('%s|%s|%s\n' % (r.get(p1),r.get(r1),str(r.get(c1))))
+
 if __name__ == '__main__':
     raw_data = 'data/RedList_Table_Dump.txt'
     removals = set(['2015 Security "Red List"',
@@ -40,7 +49,8 @@ if __name__ == '__main__':
         if len(entry) == base:
             final_rows.append(entry)
             entry = dict() 
-        
+
+
     # print the resulting data set
-    for row in final_rows:
-        print row 
+    export_csv(final_rows, 'data/tidy_redlist.csv')
+    print "The number of respondents: ", len(final_rows)
