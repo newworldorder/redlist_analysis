@@ -50,7 +50,6 @@ if __name__ == '__main__':
             final_rows.append(entry)
             entry = dict() 
 
-
-    # print the resulting data set
+    # output the data to CSV 
     export_csv(final_rows, 'data/tidy_redlist.csv')
     print "The number of respondents: ", len(final_rows)
