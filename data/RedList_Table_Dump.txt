@@ -1867,7 +1867,7 @@ implementing cryptography
 
 VP-IT Risk Management
  
-Improved dashboards and "top down reporting"
+Improved dashboards and *top down reporting*
 
 
 
