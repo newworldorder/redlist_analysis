@@ -1603,7 +1603,7 @@ Management
 RSSI
 
 
-"smart" security dashboards
+*smart* security dashboards
 
 
 
