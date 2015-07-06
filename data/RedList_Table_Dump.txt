@@ -315,12 +315,7 @@ Chief Information Assurance
 Officer
 
 
-BYOD
--
-
-non
--
-corporate managed devices in the
+BYOD-non-corporate managed devices in the
 workplace and at home; perisitent corporate data on
 the BYOD endpoint
 
@@ -662,11 +657,7 @@ endpoint security
 EndPoint Security
 
 
-Senior Vice President
--
-Global
-
-Information Security
+Senior Vice President-Global Information Security
 
 Secure the endpoint
 
@@ -684,13 +675,6 @@ EndPoint Security
 
 
 
-
-Access Control
-
-
-IDaM
-
-
 RSSI
 
 
@@ -699,10 +683,7 @@ Access rights live cycle management
 IDaM
 
 
-Manager
--
-
-IT Security Programs
+Manager-IT Security Programs
 
 authentication
 
@@ -718,10 +699,7 @@ Authentication
 IDaM
 
 
-Manager
--
-
-IT Security Programs
+Manager-IT Security Programs
 
 authorization
 
@@ -1603,7 +1581,7 @@ Management
 RSSI
 
 
-*smart* security dashboards
+"smart" security dashboards
 
 
 
@@ -1867,7 +1845,7 @@ implementing cryptography
 
 VP-IT Risk Management
  
-Improved dashboards and *top down reporting*
+Improved dashboards and "top down reporting"
 
 
 

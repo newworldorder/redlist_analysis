@@ -5,3 +5,4 @@
 * Removed all instances of the following: 2015 Security “Red List”
 * Removed an entry for forenscis because that entry was missing both the position and the category 
 * Removed any TextEdit introduced special characters that appeared on the same line as a word in the data  
+* Removed an entry for Access Control and IDaM because there was no position listed with the survey entry 

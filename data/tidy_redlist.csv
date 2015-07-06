@@ -29,52 +29,50 @@ Chief Information Security Officer (CISO)|user behavior modification / at - time
 Security Specialist resp. Information Security department|user education|Awareness and Education
 Senior Manager Cyber Intelligence & Response Team|User education|Awareness and Education
 Individual Contributor|bring your own device|BYOD
-Chief Information Assurance Officer|BYOD -|non - corporate managed devices in the workplace and at home; perisitent corporate data on the BYOD endpoint
-BYOD|Chief Security Officer|Cloud
-Cloud Security|Assistant VP Information Security|Cloud
-Cloud Security|Senior Director Technology Information Security|cloud
-Cloud Security|Network and Security Engineer|Cloud communication/storage
-Cloud Security|Director IT Governance Risk & Compliance|Cloud data loss protection
-Cloud Security|Senior Manager Information Security|cloud security
-Cloud Security|Information Security|Cloud security
-Cloud Security|Sr. Manager of Information Security|Cloud Security
-Cloud Security|Security Engineer|cloud security
-Cloud Security|CISO, CSO or Head of Security Organization|Cloud security
-Cloud Security|Vice President Security & Compliance|Cloud Security
-Cloud Security|Security Specialist resp. Information Security department|cloud services
-Cloud Security|Information Security Analyst|Shadow Cloud Mitigation
-Cloud Security|Chief Security Officer|Compliance
-Compliance|Director Security Engineering|compliance
-Compliance|CISO, CSO or Head of Security Organization|Compliance
-Compliance|Interim Chief Executive Officer|warrantees for security products and services
-Cyber Insurance|Chief Cybersecurity Technologist|Better mechanisms for data classification and enforcement of those classifications
-Data Protection|Senior Security Architect|data
-Data Protection|Manager Enterprise Information Security|data protection
-Data Protection|Senior Manager Security Intelligence & Operations|Data Security
-Data Protection|Chief Information Security Officer|data security controls that are tightly wrapped with the data
-Data Protection|SVP Information Security Architecture|data segregation
-Data Protection|CISO, CSO or Head of Security Organization|Data - centric access control and monitoring
-Data Protection|Chief Information Security Officer|Data+Identity Context Based Protection
-Data Protection|Vice President Security|Encryption in SaaS
-Data Protection|Director Information Security|managing data outside the infrastructure
-Data Protection|CISO, CSO or Head of Security Organization|DDOS
-DDOS Mitigation|IT Architect|Anti DDoS
-DDOS Mitigation|Manager in Security Organization|Data Exfiltration Monitoring/Alerting
-DLP|Senior Director Information Security Services|data loss prevention
-DLP|Director Information Security|Better Endpoint Security
-EndPoint Security|Vice President and Chief End point protection including BYOD|EndPoint Security
-Information Security Officer|Senior Director Information Security Services|endpoint controls without added endpoint agent overhead
-EndPoin t Security|Chief Information Security Officer|endpoint security
-EndPoint Security|Chief Information Security Officer|endpoint security
-EndPoint Security|Chief Information Security Officer|endpoint security
-EndPoint Security|Senior Vice President - Global|Information Security
-Secure the endpoint|EndPoint Security|CISO
-Self governing end points|EndPoint Security|Access Control
-IDaM|RSSI|Access rights live cycle management
-IDaM|Manager -|IT Security Programs
-authentication|IDaM|Security Vendor
-Authentication|IDaM|Manager -
-IT Security Programs|authorization|IDaM
+Chief Information Assurance Officer|BYOD-non-corporate managed devices in the workplace and at home; perisitent corporate data on the BYOD endpoint|BYOD
+Chief Security Officer|Cloud|Cloud Security
+Assistant VP Information Security|Cloud|Cloud Security
+Senior Director Technology Information Security|cloud|Cloud Security
+Network and Security Engineer|Cloud communication/storage|Cloud Security
+Director IT Governance Risk & Compliance|Cloud data loss protection|Cloud Security
+Senior Manager Information Security|cloud security|Cloud Security
+Information Security|Cloud security|Cloud Security
+Sr. Manager of Information Security|Cloud Security|Cloud Security
+Security Engineer|cloud security|Cloud Security
+CISO, CSO or Head of Security Organization|Cloud security|Cloud Security
+Vice President Security & Compliance|Cloud Security|Cloud Security
+Security Specialist resp. Information Security department|cloud services|Cloud Security
+Information Security Analyst|Shadow Cloud Mitigation|Cloud Security
+Chief Security Officer|Compliance|Compliance
+Director Security Engineering|compliance|Compliance
+CISO, CSO or Head of Security Organization|Compliance|Compliance
+Interim Chief Executive Officer|warrantees for security products and services|Cyber Insurance
+Chief Cybersecurity Technologist|Better mechanisms for data classification and enforcement of those classifications|Data Protection
+Senior Security Architect|data|Data Protection
+Manager Enterprise Information Security|data protection|Data Protection
+Senior Manager Security Intelligence & Operations|Data Security|Data Protection
+Chief Information Security Officer|data security controls that are tightly wrapped with the data|Data Protection
+SVP Information Security Architecture|data segregation|Data Protection
+CISO, CSO or Head of Security Organization|Data - centric access control and monitoring|Data Protection
+Chief Information Security Officer|Data+Identity Context Based Protection|Data Protection
+Vice President Security|Encryption in SaaS|Data Protection
+Director Information Security|managing data outside the infrastructure|Data Protection
+CISO, CSO or Head of Security Organization|DDOS|DDOS Mitigation
+IT Architect|Anti DDoS|DDOS Mitigation
+Manager in Security Organization|Data Exfiltration Monitoring/Alerting|DLP
+Senior Director Information Security Services|data loss prevention|DLP
+Director Information Security|Better Endpoint Security|EndPoint Security
+Vice President and Chief End point protection including BYOD|EndPoint Security|Information Security Officer
+Senior Director Information Security Services|endpoint controls without added endpoint agent overhead|EndPoin t Security
+Chief Information Security Officer|endpoint security|EndPoint Security
+Chief Information Security Officer|endpoint security|EndPoint Security
+Chief Information Security Officer|endpoint security|EndPoint Security
+Senior Vice President-Global Information Security|Secure the endpoint|EndPoint Security
+CISO|Self governing end points|EndPoint Security
+RSSI|Access rights live cycle management|IDaM
+Manager-IT Security Programs|authentication|IDaM
+Security Vendor|Authentication|IDaM
+Manager-IT Security Programs|authorization|IDaM
 Individual Contributor|Biometrics|IDaM
 Security Vendor|Identity|IDaM
 VP Security Strategy and Architecture|Identity|IDaM

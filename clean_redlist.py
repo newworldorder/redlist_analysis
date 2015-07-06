@@ -41,9 +41,14 @@ if __name__ == '__main__':
     entry = {}
     labels = ['position', 'response', 'category']
     final_rows = []
+    rssi_count = 0
     for index, new_line in enumerate(new_lines):
-        if 'security dashboards' in new_line:
-            base = 2 
+        if 'RSSI' in new_line:
+            rssi_count += 1
+            if rssi_count == 3:
+                base = 2 
+            
+
         key = labels[index % base]
         entry[key] = new_line 
         if len(entry) == base:
